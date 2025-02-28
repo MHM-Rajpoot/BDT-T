@@ -1,0 +1,4 @@
+.page-lti-launch-frame .panel-wrap{overflow:auto !important}.page-lti-launch-frame .panel-wrap .iframe-wrapper{top:6.25rem}@media only screen and (min-width: 64em){.page-lti-launch-frame .panel-wrap .iframe-wrapper{top:0.5rem}}.page-lti-launch-frame iframe{border:none;width:100%}
+
+.bb-lti-launch-iframe{text-align:center}.bb-lti-launch-iframe .bb-lti-iframe-loader{position:absolute}.bb-lti-iframe-loading{display:inline-flex;width:100%;align-items:center;justify-content:center;height:calc(100% - 6.6875rem)}
+
