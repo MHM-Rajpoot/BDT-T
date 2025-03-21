@@ -1,0 +1,3 @@
+mhmukhtar254, KdM2CVW1foJ6YcG7
+
+mongodb+srv://mhmukhtar254:<KdM2CVW1foJ6YcG7>@cluster0.wv7ho.mongodb.net/

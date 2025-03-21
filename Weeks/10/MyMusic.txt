@@ -1,0 +1,34 @@
+
+Room No 20
+
+1.
+Data Sources:  
+- User activity logs (song plays, skips, likes, dislikes)  
+- Metadata (song title, artist, genre, duration)  
+- User demographics and profile preferences  
+- Social interactions (shared playlists, friend activity)  
+
+
+2.
+Batch / Stream Processing:  
+- Stream Processing: Real-time tracking of user interactions (e.g., song plays, skips, likes) to provide immediate recommendations.  
+- Batch Processing: Periodic analysis of historical user data to refine long-term music preference models.  
+
+
+3.
+What Data Processing Might Be Required:  
+- Data cleaning and normalization (handling missing values, standardizing formats)  
+- Feature extraction (e.g., most played songs, genres, time-of-day preferences)  
+- Machine learning for personalized recommendations  
+- Sentiment analysis on user feedback  
+
+
+4.
+How Could Data Be Persisted or Used:  
+- Databases: Store structured user and song metadata (SQL or NoSQL)  
+- Data Lakes: Store raw historical user interaction data for batch analysis  
+- Real-time Storage: Use caching solutions (e.g., Redis) for fast recommendation retrieval  
+- Usage:  
+  - Personalized playlist recommendations  
+  - User engagement analytics and insights  
+  - Adaptive streaming quality based on usage patterns  
